@@ -13,6 +13,19 @@
         }
     },
     {
+        "name": "Smyle",
+        "website": "www.smyle.io",
+        "status": "active",
+        "season": "6",
+        "pitch": "Visual comparison engine for fashion",
+        "connect": {
+          "mail": "contact@smyle.io",
+          "facebook": "https://www.facebook.com/Smyle.io",
+          "twitter": "@SmyleIO",
+          "linkedin": "https://www.linkedin.com/company/5223182"
+        }
+    },
+    {
         "name": "Kokot'",
         "website": "www.mykokot.com",
         "status": "active",
